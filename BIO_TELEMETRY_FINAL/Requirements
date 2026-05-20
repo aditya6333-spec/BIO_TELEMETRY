@@ -1,0 +1,36 @@
+#Components Used
+  ESP32 Development Board
+  MAX30102 Pulse Oximeter and Heart Rate Sensor
+  AD8232 ECG Sensor Module
+  DS18B20 Waterproof Temperature Sensor
+  Conductivity sensor((DIY)
+  Water Pump(Insulin Injector)
+  1-C Relay
+  16x2 I2C LCD Display
+  Breadboard
+  Jumper Wires
+  Wi-Fi Network Connection
+  USB Cable for ESP32 Programming and Power Supply
+  10kΩ Resistor (for DS18B20 pull-up)
+  Electrodes for ECG Sensor
+ 
+  
+
+
+#Software and Development Tools
+  Arduino IDE
+  ESP32 Board Package
+
+
+
+
+#Required Arduino Libraries
+  Web Browser for Real-Time Dashboard Monitoring
+  Libraries Used
+  MAX30105 Library
+  heartRate Library
+  DallasTemperature Library
+  OneWire Library
+  LiquidCrystal_I2C Library
+  WiFi Library
+  WebServer Library
